@@ -76,17 +76,17 @@ $> nem2-cli monitor confirmed --profile company
 
 <strong class='tit'>2\. 注册namespace（名称空间）``company``，设置块的租赁期限。</strong>
 
-    ℹ️默认情况下，每15秒创建一个blocks(块)。90000个blocks(块)需要大约15,62天。
+    ℹ️默认情况下，每15秒创建一个blocks(块)。90000个blocks(块)的创建需要大约15,62天。
 
 {% highlight bash %}
 $> nem2-cli transaction namespace --name company --rootnamespace --duration 90000 --profile company
 {% endhighlight %}
 
-<strong class='tit'>3\. 网络是否确认了交易？ 检查之前打开的命令行。</strong>
+<strong class='tit'>3\. 网络确认交易了吗？检查之前打开的命令行。</strong>
 
 ##  注册company.safety子命名空间
 
-在公司的名称空间被注册后，您就可以创建关联的子命名空间。
+完成公司的名称空间的注册后，您就可以创建关联的子命名空间。
 
 注册子命名空间 ``company.safety``:
 
