@@ -46,19 +46,19 @@
 
 ### 实验 3 - 实现用例
 
-8\. [设置：仓库操作员和安全封条Setup: Warehouse operator and safety seal](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/setup/)
+8\. [设置：仓库操作员和安全封条](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/setup/)
 
-9\. [注册产品Registering products](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/registering-products/)
+9\. [注册产品](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/registering-products/)
 
-10\. [发送安全封条Sending the safety seal](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/sending-the-safety-seal/)
+10\. [发送安全封条](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/sending-the-safety-seal/)
 
 ### 实验 4 - 扩展用例
 
-11\. [添加数字传感器Adding a digital sensor](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/adding-a-digital-sensor/)
+11\. [添加数字传感器](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/adding-a-digital-sensor/)
 
-12\. [添加其他运营商Adding another operator](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/adding-another-operator/)
+12\. [添加其他操作员](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/adding-another-operator/)
 
-13\. [接下来的工作Future work](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/future-work-multilevel-multisig-accounts/)
+13\. [接下来的工作](https://nemtechchina.github.io/nem2-workshop-nem-applied-to-supply-chain/lessons/future-work-multilevel-multisig-accounts/)
 
 
 ## 构建

@@ -26,7 +26,7 @@ permalink: /lessons/adding-a-digital-sensor/
 
 ## 实现方法
 
-### 新角色：Digital Safety Sensor(数字安全传感器)
+### 新角色：数字安全传感器
 
 我们应该决定如何在现有项目中表示数字安全传感器。
 
